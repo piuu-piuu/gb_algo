@@ -1,3 +1,3 @@
 # algo
 
-some excersises
+basic excersises in algorithms
